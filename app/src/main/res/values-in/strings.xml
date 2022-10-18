@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login_page">Selamat Datang di Aplikasi RMD</string>
+    <string name="message_login_page">Masuk terlebih dahulu.</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="login"><u>Masuk</u></string>
+    <string name="copyright">© 2022 RMD</string>
+    <string name="account">Belum punya akun?</string>
+    <string name="register_here">Daftar disini</string>
+    <string name="name">Nama</string>
+    <string name="signup"><u>Daftar</u></string>
+    <string name="haveAccount">Sudah punya akun?</string>
+    <string name="email_invalid">Format email tidak valid</string>
+    <string name="password_less_than_6">Kata sandi kurang dari 6</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="enter_your_email">Masukan email kamu!</string>
+    <string name="enter_your_password">Masukan kata sandi kamu!</string>
+    <string name="enter_your_name">Masukan nama kamu!</string>
+    <string name="second_ago">detik yang lalu</string>
+    <string name="minutes_ago">menit yang lalu</string>
+    <string name="hours_ago">jam yang lalu</string>
+    <string name="days_ago">hari yang lalu</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="text_uploaded">Diunggah pada</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="not_getting_permission">Tidak mendapatkan izin</string>
+    <string name="please_enter_picture">Masukan gambar terlebih dahulu.</string>
+    <string name="network_unavailable">Jaringan tidak tersedia!</string>
+    <string name="story_uploaded">Berhasil di unggah</string>
+    <string name="login_failed">Gagal Login!</string>
+    <string name="account_created">Akun anda berhasil dibuat</string>
+    <string name="congratulations">Selamat</string>
+    <string name="login_now">Masuk Sekarang</string>
+    <string name="loading">Sabar…</string>
+    <string name="signup_failed">Gagal daftar akun!</string>
+    <string name="appwidget_text">BANNER STORY APP</string>
+    <string name="image_view_story">Gambar logo Story</string>
+</resources>

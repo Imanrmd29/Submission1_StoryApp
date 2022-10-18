@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_button_disable.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_button_navi.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_dialog_content.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_edit_text.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_item_clicked.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_logout_black_24.xml" value="0.105" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_add_story.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_check_user_login.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.3408203125" />
+        <entry key="app/src/main/res/layout/dialog_success_create_account.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/image_banner_widget.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/item_list_story.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout_loading.xml" value="0.3408203125" />
+        <entry key="app/src/main/res/layout/widget_item.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/xml/file_paths.xml" value="0.19375" />
+        <entry key="app/src/main/res/xml/image_banner_widget_info.xml" value="0.19270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
